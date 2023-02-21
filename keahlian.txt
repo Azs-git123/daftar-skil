@@ -8,4 +8,14 @@
 -Pemograman Dasar
 -Teknologi Layanan Jaringan
 -Jaringan Berbasis Luas
--Dan Lain Lain
+
+++ Skill Yang Didapat di RUCOM ++
+-Mengtik 10 jari
+-Menghubungkan ruter ke internet
+-Membuat DHCP-server
+-Menghubungkan router ke router 
+-Firewall
+-Crimping Cabel
+-Sololearn (HTML fundamental, CSS fudamental, JavaScript fundamental,)
+-Freecodecamp responsive web desain (HTML, CSS)
+-Github
